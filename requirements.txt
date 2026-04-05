@@ -3,3 +3,7 @@ pandas>=2.2.0
 numpy
 scikit-learn==1.6.1
 joblib
+imbalanced-learn
+shap
+matplotlib
+scipy
