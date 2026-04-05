@@ -1,5 +1,9 @@
 streamlit
-pandas>=2.2.0
+pandas
 numpy
-scikit-learn
+scikit-learn==1.6.1
 joblib
+imbalanced-learn
+shap
+matplotlib
+scipy
